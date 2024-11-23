@@ -18,6 +18,6 @@ Bienvenidos a  mi página web estatica hecha con Markdown.
 
 ## Enlace
 
-|                                                      Enlace                                                              | 
-|--------------------------------------------------------------------------------------------------------------------------|
-|  [Visita la introducción de Markdown]([assets/imagen.png](https://guilleatm.github.io/github-light/markdown-intro.html)) |
+|                                       Enlace                                                         | 
+|------------------------------------------------------------------------------------------------------|
+|  [Visita la introducción de Markdown](https://guilleatm.github.io/github-light/markdown-intro.html)  |
